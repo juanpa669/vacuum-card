@@ -257,6 +257,7 @@ If this card works with your vacuum cleaner, please open a PR and your model to 
 - Honiture Q6 Lite
 - Neabot NoMo N1 Plus
 - Kyvol E31
+- Deebot Omni X1e
 - [_Your vacuum?_][edit-readme]
 
 ## Development
